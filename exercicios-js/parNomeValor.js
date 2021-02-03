@@ -7,12 +7,12 @@ function exec(){
 
 //Objetos são grupos alinhados de pares nome/valor
 const cliente ={
-    nome: "Pedro";
-    idade:32;
-    peso:90;
+    nome: "Pedro",
+    idade:32,
+    peso:90,
     endereco:{
-        logradouro:"Rua Muito Legal";
-        numero:123;
+        logradouro:"Rua Muito Legal",
+        numero:123
     }
 }
 console.log(saudacao);
